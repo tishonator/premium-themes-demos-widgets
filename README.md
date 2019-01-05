@@ -12,7 +12,7 @@
 #
 # Plugin URL: https://wordpress.org/plugins/widget-importer-exporter/
 #
-#Widget Importer & Exporter is useful for moving widgets from one WordPress site to another, backing up widgets and for theme developers to give users sample widgets.
+# Widget Importer & Exporter is useful for moving widgets from one WordPress site to another, backing up widgets and for theme developers to give users sample widgets.
 #
 #
 # 3. Download the corresponding widgets demo .wie file for your theme
